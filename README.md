@@ -1,4 +1,4 @@
-# Druid for Metatron Docker image
+# CentOS 7 Docker Image
 
 teamsprint/centos:7
 
